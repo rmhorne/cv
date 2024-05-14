@@ -1,0 +1,83 @@
+## Publications  
+
+#### Monographs  
+2020: *Aeolian Alexanders: Economic, Material, and Social Networks in Antiquity*
+ Electronic publication supported by a NEH-Mellon Fellowship for Digital Publication.
+ [http://aeolian-coins.org/](http://aeolian-coins.org/)
+
+#### Editor  
+2021: Bond, Sarah, Paul Dilley, and Ryan Horne (eds). *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects.* ISAW Papers 20.  [http://dlib.nyu.edu/awdl/isaw/isaw-papers/20/](http://dlib.nyu.edu/awdl/isaw/isaw-papers/20/)
+
+#### Book Chapters  
+2022: Horne, Ryan and Ruth Mostern. “Landscapes in Motion: Cartographies of Connectivity and the Place of Physical Geography in the Environmental and Spatial Humanities” In *Routledge Handbook of the Digital Environmental Humanities*, ed. Luke Bergmann, Arlene Crampsie, Deborah Dixon, Steven Hartman, Robert Legg, Francis Ludlow, and Charlie Travis. Routledge. p. 470-489
+
+2021: Digital Approaches to the ‘Big Ancient Mediterranean.’” In *Access and Control in Digital Humanities*, ed. Shane Hawkins. Routledge. p. 78–95
+
+2021:   Bond, Sarah, Paul Dilley, and Ryan Horne. “Introducing the Semantic Web and Linked  Open Data,” in Bond, Sarah, Paul Dilley, and Ryan Horne (eds). *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects*. ISAW Papers 20. [http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-1/](http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-1/)
+
+2021:   “Applying Linked Open Data Standards,” in Bond, Sarah, Paul Dilley, and Ryan Horne  (eds). *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects*. ISAW Papers 20. [http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-2/](http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-2/)
+
+2021: Mostern, Ruth and Ryan Horne. “Tracking Yu: Developing a Data System for Yellow River History.” In Mostern, Ruth. *Yellow River: A Natural and Unnatural History*. Yale University Press. p. 247–266
+
+2020:   “Mapping Power: Using HGIS and Linked Open Data to Study Ancient Greek Garrison Communities,” in *Historical Geography, GIScience and Textual Analysis: Landscapes  of Time and Place*, ed. Charles Travis, Francis Ludlow, and Ferenc Gyuris. Springer. p. 213–227
+
+2014: “Beyond Maps as Images at the Ancient World Mapping Center.” in Elliott, Thomas, Sebastian Heath, and John Muccigrosso (eds). *Current Practice in Linked Open Data for the Ancient World*, ISAW Papers 7. [http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/horne/](http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/horne/)
+
+#### Articles
+2022: Middle, Sarah, Ryan Horne, David A. McMeekin, Chiara Zuanni, and Alex Butterworth.  “Geographies of Place in Digital Art History”, *International Journal of Humanities and Arts Computing* (IJHAC) 16, no.1: 94-109.
+
+2021: “Digital Tools and Ancient Empires: Using Network Analysis and Geographic Information Systems to Study Imperial Networks in Hellenistic Anatolia.” *Journal of World History* 32, no. 2: 321–43.
+
+2020: “Beyond Lists: Digital Gazetteers and Digital History,” *The Historian*: 1–14
+
+2020: “Connecting the Dots: Rethinking Cartographies of Connectivity,” *PLATFORM*. [https://www.platformspace.net/home/connecting-the-dots-rethinking-cartographies-of-connectivity](https://www.platformspace.net/home/connecting-the-dots-rethinking-cartographies-of-connectivity)
+
+2019: “Addressing Divergent Digital Literacies and Visualizing Data Uncertainty in Social Networks and the Ancient Greek Garrisons Project.” *Classics@* 17. [https://classics-at.chs.harvard.edu/classics17-horne/](https://classics-at.chs.harvard.edu/classics17-horne/)
+
+#### Digital Publications and Projects
+2021: Maps and infographics in Mostern Ruth, *Yellow River: A Natural and Unnatural History*  Yale University Press.
+
+2020-2022: Sinai Manuscripts Digital Library. Data and Metadata Coordinator. Site development; Data and metadata development
+ [https://sinaimanuscripts.library.ucla.edu/](https://sinaimanuscripts.library.ucla.edu/)
+
+2019-2020: World History Gazetteer. Data modeling, database design, data coordination.
+ https://whgazetteer.org/ 
+
+2017-2022: Black Lunch Table Audio Archive, Digital Director. Site and database design and  development.
+ https://blacklunchtable.com/
+
+2017: Hierokles’ Synekdemos. Ancient World Mapping Center, University of North Carolina,  Chapel Hill. Site and database design and development.  
+ http://awmc.unc.edu/awmc/applications/hierokles/
+
+2017: IAH Knowledge Network Map. Institute for the Arts and Humanities, University of  North Carolina, Chapel Hill.  Site and database design and development.
+ https://iah-unc.github.io/knowledge-network/
+
+2017: with Talbert, Richard, Brian Turner, Jeffrey Becker, Ross Twele, and Gabriel Moss. Map  of Asia Minor in the Second Century C.E., Ancient World Mapping Center, University of  North Carolina, Chapel Hill. Cartographer and data coordinator.
+ http://awmc.unc.edu/wordpress/blog/2017/02/22/wall-map-now-available-asia-minor-in-the-second-century-c-e/
+
+2015: with Sarah Bond and Paul Dilley. Terra Biblica and BAM Online Resources, University  of Iowa.  Designer and developer.
+ http://bam.lib.uiowa.edu/
+
+2014: Strabo Digital Mapping Application in support of Roller, Duane W. 2014. Geography of  Strabo: An English Translation, with Introduction and Notes. Cambridge: Cambridge  University Press. Designer and developer.
+
+2014: AWMC Map Tiles
+ A series of geographically accurate, publicly accessible map tiles of the Ancient World,  which receive over 2.5 million views a year. Cartographer, designer, developer
+ http://awmc.unc.edu/wordpress/tiles/
+
+2012-Present: Pleiades Project  
+A peer-reviewed, community-built gazetteer and graph of ancient places  
+http://pleiades.stoa.org/  
+See [http://pleiades.stoa.org/credits](http://pleiades.stoa.org/credits)
+
+2012: Antiquity À-la-carte
+ A web-based GIS and interactive digital atlas of the Ancient World.
+ [http://awmc.unc.edu/wordpress/alacarte/](http://awmc.unc.edu/wordpress/alacarte/)
+
+2011: Tabula Peutinger Map in support of Talbert, Richard J. A., Tom Elliott, Nora Harris, and  Martin Steinmann. 2010. Rome's World: The Peutinger Map Reconsidered. Cambridge:  Cambridge University Press.
+ http://peutinger.atlantides.org/map-a/
+
+
+##### Book Reviews (Invited)  
+2013: Review of John Lendon. Song of Wrath: The Peloponnesian War Begins. The History  Teacher, Volume 46, No. 2 (February 2013) p. 303-304
+
+2009: Review of John Hale. Lords of the Sea: The Epic Story of the Athenian Navy and the  Birth of Democracy. The History Teacher, Volume 43, No. 1 (November 2009) p. 146- 147

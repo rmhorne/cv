@@ -1,0 +1,32 @@
+::: {style="text-align: center"}
+# Ryan Horne
+<br/>
+Curriculum Vitae
+:::
+
+
+:::: {.columns}
+
+::: {.column width="45%"}
+UCLA Office of Advanced Research Computing
+5308 Math Sciences
+Box 951557, Mail Code 155705
+Los Angeles, CA 90095-1557
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+
+::: {style="text-align: right"}
+
+ryan.matthew.horne@gmail.com
+<br/>
+https://rmhorne.org
+
+:::
+:::
+
+::::

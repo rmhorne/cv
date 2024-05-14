@@ -1,0 +1,2 @@
+## Software Competencies  
+Javascript (including D3.js, Leaflet, OpenLayers), PHP, C++, C, Java, R, R studio,  Python (including anaconda and jupyter notebooks), SQL (including mySQL, PostgreSQL, PostGIS), XML, RDF, Linux, Gephi, Drupal, Wordpress

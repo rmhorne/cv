@@ -1,0 +1,101 @@
+## Conferences and Talks  
+
+#### Invited Papers  
+2021: "Mare Nostrum: Using Linked Open Data, Network Analysis and Historical GIS to Model Ancient Waters" in the panel Technologies and New Solutions. Roman Waters: Literature, Archaeology, and New Technologies, LMU Munich, September 16-17
+
+2020: "Mediterranean Pathways: GIS, Network Analysis, and the Ancient World" in the panel (Inter-)Regional Networks in Hellenistic Eurasia. 2020 Joint Annual Meeting of the Archaeological Institute of America and the Society for Classical Studies, Washington, DC, January 2–5
+
+2019: "HGIS, Networks, and Numismatics" in the panel Geospatial Classics: Teaching and Research Applications of G.I.S. Technology. 2019 Joint Annual Meeting of the Archaeological Institute of America and the Society for Classical Studies, San Diego, California, January 3–6
+
+2018:  “Using the new Antiquity À-la-carte 2.0 to create custom maps with data from Pleiades and the Ancient World Mapping Center” in the workshop Turning Spatial with Pleiades: Creating, Teaching, and Publishing Maps in Ancient Studies, 2018 Joint Annual Meeting of the Archaeological Institute of America and the Society for Classical Studies, Boston, Massachusetts, January 4–7
+
+2017: “People, Places, and Time: Representing Entities In the Big Ancient Mediterranean Project” in Global Philology: Digital Infrastructure for Named Entities Data, Leipzig, January 11-13
+
+2017: “Make Your Own Map” in the workshop Ancient Maker Spaces: Digital Tools for Classical Scholarship, 2017 Joint Annual Meeting of the Archaeological Institute of America and the Society for Classical Studies, Toronto, January 5–8
+
+2016: “Linked Data and the The Big Ancient Mediterranean”, Workshop on Digital Humanities, Carleton University, Ottawa, May 14-15
+
+#### Papers  
+2022: With Greg Janée, Rena Curty, Jon Jablonski, Kristi Liu, and Amanda Ho, “Incorporating Data Literacy Topics into Carpentries Lessons”, 2022 CarpentryCon, August 3
+
+2021: "Landscapes in Motion: Cartographies of Connectivity and the Place of Physical Geography in the Environmental and Spatial Humanities”, 2021 UC GIS Week, November 16-18  
+   
+2021: With Dawn Childress, “Linked Open Data in the Sinai Manuscripts Digital Library Project”, 2021 LD4 Conference on Linked Data, July 19-23
+
+2021: “Welcome to the world of geospatial Linked Open Data”, 2021 UC GIS Meetup, April 1
+
+2016: “Fuzzy Networks, Fuzzy Geography: Visualizing Complex Networks and Uncertain Data in the Big Ancient Mediterranean”, Linking the Big Ancient Mediterranean Conference, University of Iowa, June 6-8
+
+2016: with Sarah Bond and Paul Dilley, “BAM: Text, Networks, and GIS Mapping in the Big Ancient Mediterranean”, Mapping the Past: G.I.S. Approaches to Ancient History, University of North Carolina, Chapel Hill, April 8-9
+
+2015: with Sarah Bond and Paul Dilley, “Developing the Terra Biblica and BAM (“Big Ancient Mediterranean”) Online Resources” in the panel Digital Humanities and the Study of Patristics, Session 1, 17th International Conference on Patristic Studies, Oxford, August 10-14
+
+2013: “Beyond Maps as Images at the Ancient World Mapping Center”, Linked Ancient World Data Institute, Drew University Campus, May 30-June 1
+
+2013: “Mapping Antiquity À-la-carte: A GIS Interface of the Ancient World” at Word, Space, Time: Digital Perspectives on the Classical World, Digital Classics Association at SUNY Buffalo, April 5-6
+
+2012: “Mapping Antiquity À-la-carte” in the panel New Mapping Resources for Instructors  and Students, 108th CAMWS Annual Meeting, Baton Rouge, Louisiana, March 28-31
+
+#### Roundtables / Workshops  
+2021: with Biswas, Paromita, Dawn Childress, Iman Dagher, and Erica Zhang. “Connecting Knowledge: Linked Open Data in Libraries”, UC Libraries Forum 2021, October 26 - 29
+
+2020: Levitan, Rebecca et. al. “The Digital Futures of Ancient Objects: Discussing Next Steps for Collaborative Digital Humanities Projects”, 2020 Joint Annual Meeting of the Archaeological Institute of America and the Society for Classical Studies, Washington, DC, January 2–5
+
+2019: Grossner, Karl, Ryan Horne and Ruth Mostern “Linking Pasts with Place Names and  Gazetteers”, ACH 2019 Conference, Pittsburgh, PA, July 23-26
+
+#### Posters  
+2015: “Draft Map of Hispania during the Second Century C.E.”, poster session, 116th Annual Meeting of the Archaeological Institute of America, New Orleans, January 8–11
+
+#### Organization  
+2019: Panel Organizer for Geospatial Classics: Teaching and Research Applications of G.I.S. Technology. 2019 Joint Annual Meeting of the Archaeological Institute of America and the Society for Classical Studies, San Diego, California, January 3–6
+
+2010: Planning Committee for Beyond Borders: Ancient Societies and their Intellectual Frontiers, The Ancient Borderlands International Graduate Student Conference, University of California, Santa Barbara
+
+#### Talks  
+2022: “How Not to Lie with Data: Trustworthy Data Storytelling”, UC Love Data Week, University of California, Santa Barbara, February 14
+
+2021: “A Borderland in Imperial Networks: Aeolis in the Hellenistic World”, Mapping Mobilities Session 3, University of Southern California, January 21
+
+2019:  “Mediterranean Pathways: GIS, Network Analysis, and the Ancient World”, University of California, Santa Barbara, May 20
+
+2018:  with Mostern, Ruth. “Digital Methods in Spatial History workshop”, in 2018 Globalizing World History Research Symposium, University of Pittsburgh, August 24–25
+
+2014: “New Pathways Through the Ancient World: HGIS, Linked Data, and the Web”, Wake Forrest Digital Humanities Kitchen, Wake Forrest University, October 24
+
+2014: “Creating a Picture of History: Maps, Data and Method at the Ancient World Mapping Center”, Keynote, UNC / King's College Transatlantic Conference, UNC Chapel Hill, September 16
+
+2012: “Mapping Digital Prosopographies”, meeting of The California Consortium for the Study of Late Antiquity, University of California, Davis, October 5
+
+#### Campus Talks
+2022: “Shifting Cartographies: Geospatial Networks”, 2022 UCLA Global Humanisms Digital Humanities Forum, November 7
+
+2021: With Dawn Childress, “An Evolving Sinai Manuscripts Data Program”, 2021 UCLA Library Research Forum Program, March 23
+
+2014: “AWMC Research”, Poster Session,  ITS Research Computing Symposium, UNC  Chapel Hill, May 20
+
+2014: with Ross Twele “Mapping the Ancient Mediterranean in the Digital Age”, HGIS  Carolina Student Showcase, UNC Chapel Hill, April 3
+
+2014: “AWMC Research”, Poster Session, University Research Day, UNC Chapel Hill, March  4
+
+2012:  “Antiquity À-la-carte”, Innovative Use of GIS, UNC Chapel Hill, November 14
+
+## Campus Workshops  
+2022: with Curty, Renata and Greg Janée “Using the DMP Tool”, UCSB Office of Research,  May 20
+
+2022: “Introduction to Webscraping”, UCSB Library Carpentry Workshop, May 12-13
+
+2022: “Data Analysis and Visualization in Python”, UCSB Data Carpentry Workshop, April  19-21
+
+2022: with Curty, Renata “Data Storytelling for the Social Sciences and Humanities”, UCSB  Research Data Services Workshop Series, April 27
+
+2022: with Curty, Renata “Intro to Digital Humanities and Digital Social Science”, UCSB  Research Data Services Workshop Series, April 6
+
+2021: “Introduction to QGIS and Making a Map in the Humanities”, UCLA Library  Research Workshop, January 14
+
+2020: “Introduction to Mapping and Digital Gazetteers for the Humanities”, UCLA Library  Research Workshop, November 17
+
+2018: “Introduction to Network Analysis and Visualization”, University of Pittsburgh Library,  October 12
+
+2018: “Introduction to QGIS”, University of Pittsburgh Library, September 28
+
+2017: “Introduction to Network Analysis and Visualization”, University of Pittsburgh Library,  October 12
