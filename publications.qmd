@@ -1,14 +1,14 @@
 ## Publications  
 
-#### Monographs  
+### Monographs  
 2020: *Aeolian Alexanders: Economic, Material, and Social Networks in Antiquity*
  Electronic publication supported by a NEH-Mellon Fellowship for Digital Publication.
  [http://aeolian-coins.org/](http://aeolian-coins.org/)
 
-#### Editor  
+### Editor  
 2021: Bond, Sarah, Paul Dilley, and Ryan Horne (eds). *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects.* ISAW Papers 20.  [http://dlib.nyu.edu/awdl/isaw/isaw-papers/20/](http://dlib.nyu.edu/awdl/isaw/isaw-papers/20/)
 
-#### Book Chapters  
+### Book Chapters  
 2022: Horne, Ryan and Ruth Mostern. “Landscapes in Motion: Cartographies of Connectivity and the Place of Physical Geography in the Environmental and Spatial Humanities” In *Routledge Handbook of the Digital Environmental Humanities*, ed. Luke Bergmann, Arlene Crampsie, Deborah Dixon, Steven Hartman, Robert Legg, Francis Ludlow, and Charlie Travis. Routledge. p. 470-489
 
 2021: Digital Approaches to the ‘Big Ancient Mediterranean.’” In *Access and Control in Digital Humanities*, ed. Shane Hawkins. Routledge. p. 78–95
@@ -23,7 +23,7 @@
 
 2014: “Beyond Maps as Images at the Ancient World Mapping Center.” in Elliott, Thomas, Sebastian Heath, and John Muccigrosso (eds). *Current Practice in Linked Open Data for the Ancient World*, ISAW Papers 7. [http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/horne/](http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/horne/)
 
-#### Articles
+### Articles
 2022: Middle, Sarah, Ryan Horne, David A. McMeekin, Chiara Zuanni, and Alex Butterworth.  “Geographies of Place in Digital Art History”, *International Journal of Humanities and Arts Computing* (IJHAC) 16, no.1: 94-109.
 
 2021: “Digital Tools and Ancient Empires: Using Network Analysis and Geographic Information Systems to Study Imperial Networks in Hellenistic Anatolia.” *Journal of World History* 32, no. 2: 321–43.
@@ -34,7 +34,7 @@
 
 2019: “Addressing Divergent Digital Literacies and Visualizing Data Uncertainty in Social Networks and the Ancient Greek Garrisons Project.” *Classics@* 17. [https://classics-at.chs.harvard.edu/classics17-horne/](https://classics-at.chs.harvard.edu/classics17-horne/)
 
-#### Digital Publications and Projects
+### Digital Publications and Projects
 2021: Maps and infographics in Mostern Ruth, *Yellow River: A Natural and Unnatural History*  Yale University Press.
 
 2020-2022: Sinai Manuscripts Digital Library. Data and Metadata Coordinator. Site development; Data and metadata development
@@ -77,7 +77,7 @@ See [http://pleiades.stoa.org/credits](http://pleiades.stoa.org/credits)
  http://peutinger.atlantides.org/map-a/
 
 
-##### Book Reviews (Invited)  
+#### Book Reviews (Invited)  
 2013: Review of John Lendon. Song of Wrath: The Peloponnesian War Begins. The History  Teacher, Volume 46, No. 2 (February 2013) p. 303-304
 
 2009: Review of John Hale. Lords of the Sea: The Epic Story of the Athenian Navy and the  Birth of Democracy. The History Teacher, Volume 43, No. 1 (November 2009) p. 146- 147
