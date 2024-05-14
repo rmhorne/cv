@@ -1,22 +1,27 @@
 ## Teaching Experience
 
-##### University of Pittsburgh, Instructor of Record  
+### University of California, Los Angeles, Instructor of Record
+2024: DH 101: Introduction to Digital Humanities, Digital Humanities Program, Winter Quarter
+2023: DH 131: Social Justice and GIS, Digital Humanities Program, Spring Quarter
+2023: DH 131: Social Justice and GIS, Digital Humanities Program, Fall Quarter
+
+### University of Pittsburgh, Instructor of Record  
 2019: Digital Atlas Design Internship, History Department, Spring Semester  
 2018: Digital Atlas Design Internship, History Department, Fall Semester  
 2018: Digital Atlas Design Internship, History Department, Spring Semester  
 2017: Digital Atlas Design Internship, History Department, Fall Semester  
 
-##### University of North Carolina, Chapel Hill, Instructor of Record  
+### University of North Carolina, Chapel Hill, Instructor of Record  
 2017: Introduction To Historical Geographic Information Systems, Honors College, Spring Semester  
 2016: Introduction To Social Network Analysis and Conspiracy Theories, Honors College, Fall Semester  
 2015: Roman History, History Department, Summer Session II  
 
-##### University of North Carolina, Chapel Hill, Teaching Assistant    
+### University of North Carolina, Chapel Hill, Teaching Assistant    
 2013: History of Greece, History Department, Fall Semester  
 2012: Roman History, History Department, Spring Semester  
 2011: Ancient History, History Department, Fall Semester  
 
-##### University of California, Santa Barbara, Teaching Assistant  
+### University of California, Santa Barbara, Teaching Assistant  
 2010: Western Civilization: 1715 CE to Present, History Department, Spring Quarter  
 2009: Introduction to the Middle East, Global and International Studies Program, Fall Quarter  
 2009: World History: 7000 BCE-1000 CE, History Department, Spring Quarter  

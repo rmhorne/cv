@@ -1,6 +1,6 @@
 ## Conferences and Talks  
 
-#### Invited Papers  
+### Invited Papers  
 2021: "Mare Nostrum: Using Linked Open Data, Network Analysis and Historical GIS to Model Ancient Waters" in the panel Technologies and New Solutions. Roman Waters: Literature, Archaeology, and New Technologies, LMU Munich, September 16-17
 
 2020: "Mediterranean Pathways: GIS, Network Analysis, and the Ancient World" in the panel (Inter-)Regional Networks in Hellenistic Eurasia. 2020 Joint Annual Meeting of the Archaeological Institute of America and the Society for Classical Studies, Washington, DC, January 2–5
@@ -15,7 +15,7 @@
 
 2016: “Linked Data and the The Big Ancient Mediterranean”, Workshop on Digital Humanities, Carleton University, Ottawa, May 14-15
 
-#### Papers  
+### Papers  
 2022: With Greg Janée, Rena Curty, Jon Jablonski, Kristi Liu, and Amanda Ho, “Incorporating Data Literacy Topics into Carpentries Lessons”, 2022 CarpentryCon, August 3
 
 2021: "Landscapes in Motion: Cartographies of Connectivity and the Place of Physical Geography in the Environmental and Spatial Humanities”, 2021 UC GIS Week, November 16-18  
@@ -36,22 +36,28 @@
 
 2012: “Mapping Antiquity À-la-carte” in the panel New Mapping Resources for Instructors  and Students, 108th CAMWS Annual Meeting, Baton Rouge, Louisiana, March 28-31
 
-#### Roundtables / Workshops  
+### Roundtables / Workshops  
+2024: with Loreto Granados García, Paula. Mary Jaharis Center for Byzantine Art and Culture Data Workshop", Mary Jaharis Center for Byzantine Art and Culture, Hellenic College Holy Cross, MA, May 13 - 17
+
+2023: with Seifred, Becky. “Working with Maps: An Introduction to GIS, Spatial Data, and Geospatial Resources for Byzantinists”, Mary Jaharis Center for Byzantine Art and Culture, Hellenic College Holy Cross, MA, May 15 - 18
+
 2021: with Biswas, Paromita, Dawn Childress, Iman Dagher, and Erica Zhang. “Connecting Knowledge: Linked Open Data in Libraries”, UC Libraries Forum 2021, October 26 - 29
 
 2020: Levitan, Rebecca et. al. “The Digital Futures of Ancient Objects: Discussing Next Steps for Collaborative Digital Humanities Projects”, 2020 Joint Annual Meeting of the Archaeological Institute of America and the Society for Classical Studies, Washington, DC, January 2–5
 
 2019: Grossner, Karl, Ryan Horne and Ruth Mostern “Linking Pasts with Place Names and  Gazetteers”, ACH 2019 Conference, Pittsburgh, PA, July 23-26
 
-#### Posters  
+### Posters  
 2015: “Draft Map of Hispania during the Second Century C.E.”, poster session, 116th Annual Meeting of the Archaeological Institute of America, New Orleans, January 8–11
 
-#### Organization  
+### Organization  
+2023: Chair, UC GIS Week, November 13-17
+
 2019: Panel Organizer for Geospatial Classics: Teaching and Research Applications of G.I.S. Technology. 2019 Joint Annual Meeting of the Archaeological Institute of America and the Society for Classical Studies, San Diego, California, January 3–6
 
 2010: Planning Committee for Beyond Borders: Ancient Societies and their Intellectual Frontiers, The Ancient Borderlands International Graduate Student Conference, University of California, Santa Barbara
 
-#### Talks  
+## Talks  
 2022: “How Not to Lie with Data: Trustworthy Data Storytelling”, UC Love Data Week, University of California, Santa Barbara, February 14
 
 2021: “A Borderland in Imperial Networks: Aeolis in the Hellenistic World”, Mapping Mobilities Session 3, University of Southern California, January 21
@@ -66,7 +72,7 @@
 
 2012: “Mapping Digital Prosopographies”, meeting of The California Consortium for the Study of Late Antiquity, University of California, Davis, October 5
 
-#### Campus Talks
+## Campus Talks
 2022: “Shifting Cartographies: Geospatial Networks”, 2022 UCLA Global Humanisms Digital Humanities Forum, November 7
 
 2021: With Dawn Childress, “An Evolving Sinai Manuscripts Data Program”, 2021 UCLA Library Research Forum Program, March 23
@@ -80,22 +86,28 @@
 2012:  “Antiquity À-la-carte”, Innovative Use of GIS, UNC Chapel Hill, November 14
 
 ## Campus Workshops  
-2022: with Curty, Renata and Greg Janée “Using the DMP Tool”, UCSB Office of Research,  May 20
+2023: “Introduction to Data Storytelling”, UCLA Office of Advanced Research Computing, June 27
+
+2023: “Introduction to Network Analysis Methodologies and Tools”, UCLA Office of Advanced Research Computing, April 14
+
+2022: “Introduction to QGIS”, UCLA Office of Advanced Research Computing, January 20
+
+2022: with Curty, Renata and Greg Janée “Using the DMP Tool”, UCSB Office of Research, May 20
 
 2022: “Introduction to Webscraping”, UCSB Library Carpentry Workshop, May 12-13
 
-2022: “Data Analysis and Visualization in Python”, UCSB Data Carpentry Workshop, April  19-21
+2022: “Data Analysis and Visualization in Python”, UCSB Data Carpentry Workshop, April 19-21
 
-2022: with Curty, Renata “Data Storytelling for the Social Sciences and Humanities”, UCSB  Research Data Services Workshop Series, April 27
+2022: with Curty, Renata “Data Storytelling for the Social Sciences and Humanities”, UCSB Research Data Services Workshop Series, April 27
 
-2022: with Curty, Renata “Intro to Digital Humanities and Digital Social Science”, UCSB  Research Data Services Workshop Series, April 6
+2022: with Curty, Renata “Intro to Digital Humanities and Digital Social Science”, UCSB Research Data Services Workshop Series, April 6
 
-2021: “Introduction to QGIS and Making a Map in the Humanities”, UCLA Library  Research Workshop, January 14
+2021: “Introduction to QGIS and Making a Map in the Humanities”, UCLA Library Research Workshop, January 14
 
-2020: “Introduction to Mapping and Digital Gazetteers for the Humanities”, UCLA Library  Research Workshop, November 17
+2020: “Introduction to Mapping and Digital Gazetteers for the Humanities”, UCLA Library Research Workshop, November 17
 
-2018: “Introduction to Network Analysis and Visualization”, University of Pittsburgh Library,  October 12
+2018: “Introduction to Network Analysis and Visualization”, University of Pittsburgh Library, October 12
 
 2018: “Introduction to QGIS”, University of Pittsburgh Library, September 28
 
-2017: “Introduction to Network Analysis and Visualization”, University of Pittsburgh Library,  October 12
+2017: “Introduction to Network Analysis and Visualization”, University of Pittsburgh Library, October 12
