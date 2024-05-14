@@ -57,7 +57,7 @@
 
 2010: Planning Committee for Beyond Borders: Ancient Societies and their Intellectual Frontiers, The Ancient Borderlands International Graduate Student Conference, University of California, Santa Barbara
 
-## Talks  
+### Talks  
 2022: “How Not to Lie with Data: Trustworthy Data Storytelling”, UC Love Data Week, University of California, Santa Barbara, February 14
 
 2021: “A Borderland in Imperial Networks: Aeolis in the Hellenistic World”, Mapping Mobilities Session 3, University of Southern California, January 21
@@ -72,7 +72,7 @@
 
 2012: “Mapping Digital Prosopographies”, meeting of The California Consortium for the Study of Late Antiquity, University of California, Davis, October 5
 
-## Campus Talks
+### Campus Talks
 2022: “Shifting Cartographies: Geospatial Networks”, 2022 UCLA Global Humanisms Digital Humanities Forum, November 7
 
 2021: With Dawn Childress, “An Evolving Sinai Manuscripts Data Program”, 2021 UCLA Library Research Forum Program, March 23
@@ -85,7 +85,7 @@
 
 2012:  “Antiquity À-la-carte”, Innovative Use of GIS, UNC Chapel Hill, November 14
 
-## Campus Workshops  
+### Campus Workshops  
 2023: “Introduction to Data Storytelling”, UCLA Office of Advanced Research Computing, June 27
 
 2023: “Introduction to Network Analysis Methodologies and Tools”, UCLA Office of Advanced Research Computing, April 14
