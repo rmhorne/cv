@@ -85,12 +85,34 @@
 
 2012: “Antiquity À-la-carte”, Innovative Use of GIS, UNC Chapel Hill, November 14
 
-### Campus Workshops  
-2023: “Introduction to Data Storytelling”, UCLA Office of Advanced Research Computing, June 27
+### Campus Workshops
+2026: “Getting Started with ArcGIS Online at UCLA: Creating, Editing, and Sharing Spatial Data and Stories”, recorded workshop series, UCLA Office of Advanced Research Computing, September–October
 
-2023: “Introduction to Network Analysis Methodologies and Tools”, UCLA Office of Advanced Research Computing, April 14
+2026: “Getting Started with Python”, UC Library Carpentry Workshop Series, UCLA Library, May 19
 
-2022: “Introduction to QGIS”, UCLA Office of Advanced Research Computing, January 20
+2026: with Jamison, Jamie “OpenRefine for Cleaning and Transforming Data”, UC Library Carpentry Workshop Series, UCLA Library, May 18
+
+2026: “Creating, Coding, Citing, and Communicating Research With Markdown, Quarto, VS Code, and Zotero”, recorded workshop series, UCLA Office of Advanced Research Computing, May
+
+2026: “Creating Spatial Networks with Open Source Software”, UCLA Office of Advanced Research Computing, February 2
+
+2025: “Spatial Research and the ESRI Ecosystem at UCLA”, UCLA Office of Advanced Research Computing, October 6
+
+2025: with Albrezzi, Francesca “AI Ethics for Humanities and Social Science”, UCLA Office of Advanced Research Computing, July 7
+
+2025: with Albrezzi, Francesca “Introduction to AI/ML/LLM for Humanities and Social Science”, UCLA Office of Advanced Research Computing, April 28
+
+2025: “Introduction to Graph Databases”, UCLA Office of Advanced Research Computing, February 10
+
+2023, 2024: “Introduction to Network Analysis Methodologies and Tools”, UCLA Office of Advanced Research Computing, April 14, 2023 and April 19, 2024
+
+2024: “Spatial Humanities and High Performance Computing”, UCLA Office of Advanced Research Computing, February 23
+
+2023: “Creating GIS Route Networks with pgRouting and the Hoffman2 Shared Computing Cluster”, UCLA Office of Advanced Research Computing, November 16
+
+2023: “Introduction to Data Storytelling”, UCLA Office of Advanced Research Computing, June 28
+
+2023: “Introduction to QGIS and Digital Gazetteers”, UCLA Office of Advanced Research Computing, January 20
 
 2022: with Curty, Renata and Greg Janée “Using the DMP Tool”, UCSB Office of Research, May 20
 
