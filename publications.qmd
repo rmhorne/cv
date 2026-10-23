@@ -47,7 +47,7 @@
 
 2020–2022: *Sinai Manuscripts Digital Library*. Digital Library Program, UCLA Library. Data and metadata coordinator: site development and data and metadata development. <https://sinaimanuscripts.library.ucla.edu/>
 
-2019–2020: *World Historical Gazetteer*. World History Center, University of Pittsburgh. Data modeling, database design, and data coordination. <https://whgazetteer.org/>
+2019–2020: *World Historical Gazetteer*. World History Center, University of Pittsburgh. Contributed to project and data model design; data coordination. <https://whgazetteer.org/>
 
 2017–2022: *Black Lunch Table Audio Archive*. Black Lunch Table. Digital director: site and database design and development. <https://blacklunchtable.com/>
 
