@@ -3,7 +3,7 @@
 ### Monographs  
 2020: *Aeolian Alexanders: Economic, Material, and Social Networks in Antiquity*.
  Electronic publication supported by a NEH-Mellon Fellowship for Digital Publication.
- <http://aeolian-coins.org/>
+ <https://github.com/Aeolian-Alexanders>
 
 ### Editor  
 2021: Bond, Sarah, Paul Dilley, and **Ryan Horne** (eds). *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects.* ISAW Papers 20. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/20/>
