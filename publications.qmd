@@ -43,45 +43,31 @@
 
 2024–present: *Milken Archive of Jewish Music Wikibase*. For the Milken Archive of Jewish Music. Designer and developer. A reusable Python and Streamlit framework for transforming the archive's spreadsheet metadata into a linked-data knowledge graph in Wikibase, with FRBR-based modeling of works and expressions, entity reconciliation across datasets, configurable relationship mapping, and provenance-preserving statements. Designed to serve other digital humanities and cultural heritage datasets. (In development)
 
-2021: Maps and infographics in Mostern, Ruth. *Yellow River: A Natural and Unnatural History*. Yale University Press.
+2021: *Yellow River: A Natural and Unnatural History*, by Ruth Mostern. Yale University Press. Maps and infographics.
 
-2020–2022: Sinai Manuscripts Digital Library. Data and Metadata Coordinator. Site development; Data and metadata development
- <https://sinaimanuscripts.library.ucla.edu/>
+2020–2022: *Sinai Manuscripts Digital Library*. Digital Library Program, UCLA Library. Data and metadata coordinator: site development and data and metadata development. <https://sinaimanuscripts.library.ucla.edu/>
 
-2019–2020: World History Gazetteer. Data modeling, database design, data coordination.
- <https://whgazetteer.org/>
+2019–2020: *World Historical Gazetteer*. World History Center, University of Pittsburgh. Data modeling, database design, and data coordination. <https://whgazetteer.org/>
 
-2017–2022: Black Lunch Table Audio Archive, Digital Director. Site and database design and development.
- <https://blacklunchtable.com/>
+2017–2022: *Black Lunch Table Audio Archive*. Black Lunch Table. Digital director: site and database design and development. <https://blacklunchtable.com/>
 
-2017: Hierokles’ Synekdemos. Ancient World Mapping Center, University of North Carolina, Chapel Hill. Site and database design and development.  
- <http://awmc.unc.edu/awmc/applications/hierokles/>
+2017: *Hierokles' Synekdemos*. Ancient World Mapping Center, University of North Carolina, Chapel Hill. Site and database design and development. An interactive map of Hierokles' survey of the cities of the Eastern Roman Empire under Justinian. (Offline since 2023; AWMC released a redesigned version in 2026.) Archived: <https://web.archive.org/web/20220923174814/http://awmc.unc.edu/awmc/applications/hierokles/>
 
-2017: IAH Knowledge Network Map. Institute for the Arts and Humanities, University of North Carolina, Chapel Hill. Site and database design and development.
- <https://iah-unc.github.io/knowledge-network/>
+2017: *IAH Knowledge Network Map*. Institute for the Arts and Humanities, University of North Carolina, Chapel Hill. Site and database design and development. <https://iah-unc.github.io/knowledge-network/>
 
-2017: with Talbert, Richard, Brian Turner, Jeffrey Becker, Ross Twele, and Gabriel Moss. Map of Asia Minor in the Second Century C.E., Ancient World Mapping Center, University of North Carolina, Chapel Hill. Cartographer and data coordinator.
- <http://awmc.unc.edu/wordpress/blog/2017/02/22/wall-map-now-available-asia-minor-in-the-second-century-c-e/>
+2017: *Asia Minor in the Second Century C.E.* With Richard Talbert, Brian Turner, Jeffrey Becker, Ross Twele, and Gabriel Moss. Ancient World Mapping Center, University of North Carolina, Chapel Hill. Cartographer and data coordinator. A 1:750,000 wall map succeeding J. G. C. Anderson's 1903 map of the region. <https://awmc.unc.edu/wall-maps/>
 
-2015: with Sarah Bond and Paul Dilley. Terra Biblica and BAM Online Resources, University of Iowa. Designer and developer.
- <http://bam.lib.uiowa.edu/>
+2015: *Terra Biblica and BAM (Big Ancient Mediterranean) Online Resources*. With Sarah Bond and Paul Dilley. University of Iowa. Designer and developer. <http://bam.lib.uiowa.edu/>
 
-2014: Strabo Digital Mapping Application in support of Roller, Duane W. 2014. *The Geography of Strabo: An English Translation, with Introduction and Notes*. Cambridge: Cambridge University Press. Designer and developer.
+2014: *Strabo Digital Mapping Application*. Ancient World Mapping Center, University of North Carolina, Chapel Hill, accompanying Duane W. Roller, *The Geography of Strabo: An English Translation, with Introduction and Notes* (Cambridge University Press, 2014). Designer and developer. (Offline since 2023; AWMC released a redesigned version in 2026.) Archived: <https://web.archive.org/web/20231128110529/http://www.awmc.unc.edu/awmc/applications/strabo/>
 
-2014: AWMC Map Tiles.
- A series of geographically accurate, publicly accessible map tiles of the Ancient World, which receive over 2.5 million views a year. Cartographer, designer, developer.
- <http://awmc.unc.edu/wordpress/tiles/>
+2014: *AWMC Map Tiles*. Ancient World Mapping Center, University of North Carolina, Chapel Hill. Cartographer, designer, and developer. Geographically accurate, publicly accessible map tiles of the ancient world for use in web maps, which received over 2.5 million views a year. (Offline.) Archived: <https://web.archive.org/web/20231127020205/http://awmc.unc.edu/wordpress/tiles/>
 
-2012–present: Pleiades Project.
-A peer-reviewed, community-built gazetteer and graph of ancient places. See credits at <https://pleiades.stoa.org/credits>
- <https://pleiades.stoa.org/>
+2012–present: *Pleiades*. Ancient World Mapping Center and Institute for the Study of the Ancient World, New York University. Contributor and editor. A peer-reviewed, community-built gazetteer and graph of ancient places. <https://pleiades.stoa.org/>
 
-2012: Antiquity À-la-carte.
- A web-based GIS and interactive digital atlas of the Ancient World.
- <http://awmc.unc.edu/wordpress/alacarte/>
+2012: *Antiquity À-la-carte*. Ancient World Mapping Center, University of North Carolina, Chapel Hill. A web-based GIS and interactive digital atlas of the ancient world. (Offline.) Archived: <https://web.archive.org/web/20231127020207/http://awmc.unc.edu/wordpress/alacarte/>
 
-2011: Tabula Peutinger Map in support of Talbert, Richard J. A., Tom Elliott, Nora Harris, and Martin Steinmann. 2010. *Rome's World: The Peutinger Map Reconsidered*. Cambridge: Cambridge University Press.
- <http://peutinger.atlantides.org/map-a/>
+2011: *Peutinger Map*. Digital map accompanying Richard J. A. Talbert, *Rome's World: The Peutinger Map Reconsidered* (Cambridge University Press, 2010), with Tom Elliott, Nora Harris, and Martin Steinmann. (Offline.) Archived: <https://web.archive.org/web/20250409170428/https://peutinger.atlantides.org/map-a/>
 
 
 ### Book Reviews (Invited)  
