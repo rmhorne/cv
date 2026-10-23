@@ -61,7 +61,7 @@ function Para(el)
 
   if quarto.doc.is_format("typst") then
     return pandoc.RawBlock("typst", string.format(
-      "#block(breakable: false, grid(columns: (7.5em, 1fr), gutter: 0.8em, [%s], [%s]))",
+      "#block(breakable: false, above: 0.95em, below: 0.95em, grid(columns: (7.5em, 1fr), gutter: 0.8em, [%s], [%s]))",
       to_typst(date), to_typst(body)))
   end
 

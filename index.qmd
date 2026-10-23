@@ -1,5 +1,14 @@
 ---
 lang: en
+format:
+  html:
+    output-file: index.html
+    other-links:
+      - text: Download PDF
+        href: cv.pdf
+        icon: file-earmark-pdf
+  typst:
+    output-file: cv.pdf
 ---
 
 {{< include header.qmd >}}
@@ -9,6 +18,8 @@ lang: en
 {{< include professional-experience.qmd >}}
 
 {{< include publications.qmd >}}
+
+{{< include digital-projects.qmd >}}
 
 {{< include teaching.qmd >}}
 

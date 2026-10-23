@@ -1,0 +1,33 @@
+---
+# CV tailored for the Pomona College Environmental Analysis (Critical
+# Geography) search: GIS teaching and spatial projects come first.
+# Uses the same section files as index.qmd; only the order differs.
+lang: en
+format:
+  typst:
+    output-file: cv-pomona.pdf
+---
+
+{{< include header.qmd >}}
+
+{{< include education.qmd >}}
+
+{{< include professional-experience.qmd >}}
+
+{{< include teaching.qmd >}}
+
+{{< include digital-projects.qmd >}}
+
+{{< include publications.qmd >}}
+
+{{< include funding.qmd >}}
+
+{{< include conferences-talks.qmd >}}
+
+{{< include professional-service.qmd >}}
+
+{{< include software.qmd >}}
+
+{{< include professional-development.qmd >}}
+
+{{< include languages.qmd >}}

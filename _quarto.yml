@@ -3,6 +3,7 @@ project:
   output-dir: _output
   render:
     - index.qmd
+    - cv-pomona.qmd
 
 filters:
   - cv-entries.lua
@@ -11,7 +12,6 @@ filters:
 format:
   html:
     pagetitle: "Ryan Horne – Curriculum Vitae"
-    output-file: index.html
     theme: cosmo
     css: cv.css
     toc: true
@@ -19,12 +19,7 @@ format:
     toc-depth: 2
     embed-resources: true
     format-links: false
-    other-links:
-      - text: Download PDF
-        href: cv.pdf
-        icon: file-earmark-pdf
   typst:
-    output-file: cv.pdf
     papersize: us-letter
     margin:
       x: 0.9in

@@ -36,8 +36,10 @@
 
 2012: “Mapping Antiquity À-la-carte” in the panel New Mapping Resources for Instructors and Students, 108th CAMWS Annual Meeting, Baton Rouge, Louisiana, March 28–31
 
-### Roundtables / Workshops  
+### Roundtables / Workshops
 2025: with Brey, Alexander and Zachary Chitwood. “An Introduction to Network Analysis for Byzantinists”, week-long online workshop, Mary Jaharis Center for Byzantine Art and Culture, May 12–16
+
+2024: Session leader, “A Network of Linked Places: Spatial Network Construction using Pleiades, World Historical Gazetteer, and GeoJSON”, Joint Symposium of Linked Pasts 10 and Linked Pasts Japan 1, National Institute of Informatics, Tokyo, Japan, December 9–12
 
 2024: with Granados García, Paula Loreto. “Data Literacy for Byzantinists”, week-long online workshop, Mary Jaharis Center for Byzantine Art and Culture, May 13–17
 
@@ -77,6 +79,8 @@
 2012: “Mapping Digital Prosopographies”, meeting of The California Consortium for the Study of Late Antiquity, University of California, Davis, October 5
 
 ### Campus Talks
+2024: “Digital Formats”, Vital Matters / Art, Devotion, Practice, UCLA Fowler Museum, October 16
+
 2022: “Shifting Cartographies: Geospatial Networks”, 2022 UCLA Global Humanisms Digital Humanities Forum, November 7
 
 2021: With Dawn Childress, “An Evolving Sinai Manuscripts Data Program”, 2021 UCLA Library Research Forum Program, March 23
@@ -109,6 +113,8 @@
 2025: with Albrezzi, Francesca “Introduction to AI/ML/LLM for Humanities and Social Science”, UCLA Office of Advanced Research Computing, April 28
 
 2025: “Introduction to Graph Databases”, UCLA Office of Advanced Research Computing, February 10
+
+2024: “Markdown, Zotero, and Quarto for Academic Writing and Publishing”, UCLA Office of Advanced Research Computing, October 7
 
 2023, 2024: “Introduction to Network Analysis Methodologies and Tools”, UCLA Office of Advanced Research Computing, April 14, 2023 and April 19, 2024
 
