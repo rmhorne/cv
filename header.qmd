@@ -34,6 +34,12 @@ Los Angeles, CA 90095-1557
   }
 }))
 #set par(justify: false)
+// Keep headings with what follows: reserve room below each heading so it
+// moves to the next page instead of being stranded at the bottom.
+#show heading: it => {
+  block(breakable: false, width: 100%, { it; v(4em) })
+  v(-4em)
+}
 #align(center)[
   #text(size: 22pt, weight: "bold")[Ryan Horne]
   #v(-0.4em)
