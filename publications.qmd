@@ -47,6 +47,8 @@ Under review: “Digital Entanglements: Grand Strategy Games, Historical Network
 
 2023–2026: *Tracks of Yu: The Yellow River Database and Digital Atlas*. With Ruth Mostern and Nathan Michalewicz. Data coordinator and developer. The open data behind Mostern's *The Yellow River: A Natural and Unnatural History* (Yale University Press, 2021), with a web atlas. <https://tracksofyu.github.io/>
 
+2023: *SAKE: Structural Analysis Knowledge Engine*. With engineering researchers and developers at the Office of Advanced Research Computing, UCLA. Contributor to application architecture and web interface. A Python-based platform for teaching structural engineering through interactive analysis and visualization.
+
 2021: *Yellow River: A Natural and Unnatural History*, by Ruth Mostern. Yale University Press. Maps and infographics.
 
 2020–2022: *Sinai Manuscripts Digital Library*. Digital Library Program, UCLA Library. Data and metadata coordinator: site development and data and metadata development. <https://sinaimanuscripts.library.ucla.edu/>
