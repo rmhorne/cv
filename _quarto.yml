@@ -28,5 +28,5 @@ format:
     papersize: us-letter
     margin:
       x: 0.9in
-      y: 0.8in
+      y: 0.7in
     fontsize: 10.5pt

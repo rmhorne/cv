@@ -1,2 +1,13 @@
-## Software Competencies  
-JavaScript (including D3.js, Leaflet, OpenLayers), PHP, C++, C, Java, R (including RStudio), Python (including Anaconda and Jupyter notebooks), SQL (including MySQL, PostgreSQL, PostGIS), XML, RDF, Linux, Gephi, Drupal, WordPress
+## Technical Competencies
+
+**Geospatial:** ArcGIS Pro, ArcGIS Online (organization administration), ArcGIS Experience Builder, ArcGIS API for Python, QGIS, PostGIS, pgRouting, GDAL, Leaflet, OpenLayers
+
+**Programming and research software:** Python (Pandas, NetworkX, Flask, Streamlit, Jupyter), R, JavaScript (D3.js), SQL (PostgreSQL, MySQL, SQLite), Git/GitHub, REST APIs, Linux, high-performance computing (Hoffman2), Quarto
+
+**Linked data and networks:** Wikibase (data modeling, ingestion pipelines, entity reconciliation), Wikidata, RDF, SPARQL, XML, Neo4j, Gephi, digital gazetteers (Pleiades, World Historical Gazetteer)
+
+**Visualization:** Tableau, D3.js, interactive dashboards and web maps
+
+**AI and LLMs:** LLM API integration in research workflows, LLM-assisted data processing and analysis
+
+**Earlier experience:** C, C++, Java, PHP, Drupal, WordPress
