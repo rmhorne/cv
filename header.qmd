@@ -1,32 +1,51 @@
-::: {style="text-align: center"}
-# Ryan Horne
-<br/>
-Curriculum Vitae
-:::
+::: {.content-visible when-format="html"}
 
+:::: {.cv-header}
+# Ryan Horne {.unnumbered .unlisted}
 
-:::: {.columns}
+[Curriculum Vitae]{.cv-subtitle}
 
-::: {.column width="45%"}
-UCLA Office of Advanced Research Computing
-5308 Math Sciences
-Box 951557, Mail Code 155705
+::::: {.cv-contact}
+:::::: {.cv-contact-left}
+UCLA Office of Advanced Research Computing\
+5308 Math Sciences\
+Box 951557, Mail Code 155705\
 Los Angeles, CA 90095-1557
-:::
+::::::
 
-::: {.column width="5%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="45%"}
-
-::: {style="text-align: right"}
-
-ryan.matthew.horne@gmail.com
-<br/>
-https://rmhorne.org
-
-:::
-:::
-
+:::::: {.cv-contact-right}
+<ryan.matthew.horne@gmail.com>\
+<https://rmhorne.org>
+::::::
+:::::
 ::::
+
+:::
+
+::: {.content-visible when-format="typst"}
+
+```{=typst}
+#set par(justify: false)
+#align(center)[
+  #text(size: 22pt, weight: "bold")[Ryan Horne]
+  #v(-0.4em)
+  #text(size: 11pt, tracking: 0.1em)[CURRICULUM VITAE]
+]
+#v(0.6em)
+#grid(
+  columns: (1fr, 1fr),
+  align(left)[
+    UCLA Office of Advanced Research Computing \
+    5308 Math Sciences \
+    Box 951557, Mail Code 155705 \
+    Los Angeles, CA 90095-1557
+  ],
+  align(right)[
+    #link("mailto:ryan.matthew.horne@gmail.com")[ryan.matthew.horne\@gmail.com] \
+    #link("https://rmhorne.org")[rmhorne.org]
+  ],
+)
+#v(0.8em)
+```
+
+:::

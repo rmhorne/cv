@@ -1,0 +1,25 @@
+---
+lang: en
+---
+
+{{< include header.qmd >}}
+
+{{< include education.qmd >}}
+
+{{< include professional-experience.qmd >}}
+
+{{< include publications.qmd >}}
+
+{{< include teaching.qmd >}}
+
+{{< include funding.qmd >}}
+
+{{< include conferences-talks.qmd >}}
+
+{{< include professional-service.qmd >}}
+
+{{< include professional-development.qmd >}}
+
+{{< include software.qmd >}}
+
+{{< include languages.qmd >}}
