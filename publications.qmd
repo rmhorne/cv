@@ -43,6 +43,8 @@
 
 2024–present: *Milken Archive of Jewish Music Wikibase*. For the Milken Archive of Jewish Music. Designer and developer. A reusable Python and Streamlit framework for transforming the archive's spreadsheet metadata into a linked-data knowledge graph in Wikibase, with FRBR-based modeling of works and expressions, entity reconciliation across datasets, configurable relationship mapping, and provenance-preserving statements. Designed to serve other digital humanities and cultural heritage datasets. (In development)
 
+2023–2026: *Tracks of Yu: The Yellow River Database and Digital Atlas*. With Ruth Mostern and Nathan Michalewicz. Data coordinator and developer. The open database, documentation, and geodata behind Mostern's *The Yellow River: A Natural and Unnatural History* (Yale University Press, 2021), with a web atlas for exploring them. <https://tracksofyu.github.io/> Data and code: <https://github.com/TracksOfYu>
+
 2021: *Yellow River: A Natural and Unnatural History*, by Ruth Mostern. Yale University Press. Maps and infographics.
 
 2020–2022: *Sinai Manuscripts Digital Library*. Digital Library Program, UCLA Library. Data and metadata coordinator: site development and data and metadata development. <https://sinaimanuscripts.library.ucla.edu/>
