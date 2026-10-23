@@ -1,8 +1,17 @@
 -- Turns CV entries written as "DATE: text" into a two-column layout:
 -- the date in a fixed left column, the entry text beside it.
 -- e.g. "2017 - 2019: Post-Doctoral Fellow, ..." or "2012-Present: Pleiades Project"
+-- A publication status ("Under review: ...") also goes in the date column.
 
 local MAX_DATE_LEN = 24
+
+local STATUSES = {
+  ["under review"] = true,
+  ["submitted"] = true,
+  ["accepted"] = true,
+  ["forthcoming"] = true,
+  ["in press"] = true,
+}
 
 -- Returns the index of the inline that ends the date (the one ending in ":"),
 -- or nil if the paragraph doesn't start with a date.
@@ -12,7 +21,7 @@ local function find_date_end(inlines)
     if el.t == "Str" then
       text = text .. el.text
       if el.text:sub(-1) == ":" then
-        if text:match("%d%d%d%d") then return i end
+        if text:match("%d%d%d%d") or STATUSES[text:sub(1, -2):lower()] then return i end
         return nil
       end
     elseif el.t == "Space" then

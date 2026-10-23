@@ -24,6 +24,8 @@
 2014: “Beyond Maps as Images at the Ancient World Mapping Center.” in Elliott, Thomas, Sebastian Heath, and John Muccigrosso (eds). *Current Practice in Linked Open Data for the Ancient World*, ISAW Papers 7. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/horne/>
 
 ### Articles
+Under review: “Digital Entanglements: Grand Strategy Games, Historical Networks, and Digital Humanities.” *Journal of Historical Network Research*, special issue on network analysis and game studies.
+
 2022: Middle, Sarah, **Ryan Horne**, David A. McMeekin, Chiara Zuanni, and Alex Butterworth. “Geographies of Place in Digital Art History,” *International Journal of Humanities and Arts Computing* (IJHAC) 16, no. 1: 94–109.
 
 2021: “Digital Tools and Ancient Empires: Using Network Analysis and Geographic Information Systems to Study Imperial Networks in Hellenistic Anatolia.” *Journal of World History* 32, no. 2: 321–43.
@@ -35,15 +37,15 @@
 2019: “Addressing Divergent Digital Literacies and Visualizing Data Uncertainty in Social Networks and the Ancient Greek Garrisons Project.” *Classics@* 17. <https://classics-at.chs.harvard.edu/classics17-horne/>
 
 ### Digital Publications and Projects
-2026–present: *Markings/Huellas: Sensorial/Affect Map*. UCLA cityLAB, with community and institutional partners. Technical lead, Office of Advanced Research Computing, University of California, Los Angeles. An interactive mapping and oral-history platform documenting the experiences and place-making practices of Indigenous immigrant communities in Los Angeles, built by extending the open-source Terrastories platform so visitors can explore stories through cultural, thematic, and linguistic relationships as well as location. Includes a shared data model linking oral histories, narrators, places, and media. (In development)
+2026–present: *Markings/Huellas: Sensorial/Affect Map*. UCLA cityLAB and Office of Advanced Research Computing, UCLA. Technical lead. An interactive oral-history map of Indigenous immigrant communities in Los Angeles, built on the open-source Terrastories platform. (In development)
 
-2026–present: *CAL-DROP Statewide Program Dashboard*. For CAL-DROP (California Development and Rapid Operationalization of Prehospital Blood), a statewide coalition of 19 local EMS agencies, fire departments, hospitals, and blood banks establishing California's first ground EMS blood transfusion programs. Office of Advanced Research Computing, University of California, Los Angeles. Designer and developer. A prototype interactive Tableau dashboard integrating operational data from coalition partners across California, with statewide, county, and regional maps, time-based filters, and key performance indicators to support program evaluation and oversight, built on standardized partner data. Prototype delivered 2026; further development pending. <https://dhs.lacounty.gov/harbor-ucla-medical-center/work-or-partner-with-us/la-drop/>
+2026–present: *CAL-DROP Statewide Program Dashboard*. Office of Advanced Research Computing, UCLA, for CAL-DROP, a statewide coalition establishing California's first ground EMS blood transfusion programs. Designer and developer. A Tableau dashboard mapping program data from 19 partner EMS agencies, fire departments, hospitals, and blood banks. Prototype delivered 2026.
 
-2025: *Đại Nam Nhất Thống Chí (DNNTC) Viewer*. With George Dutton (Asian Languages and Cultures, UCLA). Office of Advanced Research Computing, University of California, Los Angeles. Designer and developer: data model, processing workflows, and web interface. An interactive viewer presenting the original woodblock text of all seventeen volumes alongside its transcription, with full-text search across more than 250,000 Classical Chinese characters, vertical right-to-left reading, and reader-submitted corrections. The largest known online Vietnamese historical text. (Forthcoming on Columbia University's Digitizing Vietnam platform)
+2025: *Đại Nam Nhất Thống Chí (DNNTC) Viewer*. With George Dutton. Office of Advanced Research Computing, UCLA. Designer and developer. A searchable, side-by-side viewer of the woodblock text and transcription of all seventeen volumes, over 250,000 Classical Chinese characters. (Forthcoming on Columbia University's Digitizing Vietnam platform)
 
-2024–present: *Milken Archive of Jewish Music Wikibase*. For the Milken Archive of Jewish Music. Designer and developer. A reusable Python and Streamlit framework for transforming the archive's spreadsheet metadata into a linked-data knowledge graph in Wikibase, with FRBR-based modeling of works and expressions, entity reconciliation across datasets, configurable relationship mapping, and provenance-preserving statements. Designed to serve other digital humanities and cultural heritage datasets. (In development)
+2024–present: *Milken Archive of Jewish Music Wikibase*. Office of Advanced Research Computing, UCLA. Designer and developer. A reusable Python framework for turning the archive's spreadsheet metadata into a linked-data knowledge graph in Wikibase. (In development)
 
-2023–2026: *Tracks of Yu: The Yellow River Database and Digital Atlas*. With Ruth Mostern and Nathan Michalewicz. Data coordinator and developer. The open database, documentation, and geodata behind Mostern's *The Yellow River: A Natural and Unnatural History* (Yale University Press, 2021), with a web atlas for exploring them. <https://tracksofyu.github.io/> Data and code: <https://github.com/TracksOfYu>
+2023–2026: *Tracks of Yu: The Yellow River Database and Digital Atlas*. With Ruth Mostern and Nathan Michalewicz. Data coordinator and developer. The open data behind Mostern's *The Yellow River: A Natural and Unnatural History* (Yale University Press, 2021), with a web atlas. <https://tracksofyu.github.io/>
 
 2021: *Yellow River: A Natural and Unnatural History*, by Ruth Mostern. Yale University Press. Maps and infographics.
 
