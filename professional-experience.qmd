@@ -1,6 +1,6 @@
 ## Professional Experience  
-2022–present: Digital Research Specialist, Office of Advanced Research Computing, University of California, Los Angeles\
-(Since 2024, responsible for administering UCLA's campus-wide ArcGIS Online organization, serving over 7,000 users)
+2022–present: Digital Research Specialist, GIS and Visualization Group, Office of Advanced Research Computing, University of California, Los Angeles\
+(Since 2024, responsible for administering and supporting UCLA's campus-wide ArcGIS Online organization, serving over 7,000 users)
 
 2021–2022: Digital Humanities Research Facilitator, Research Data Services, University of California, Santa Barbara Library
 
