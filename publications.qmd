@@ -6,25 +6,25 @@
  <http://aeolian-coins.org/>
 
 ### Editor  
-2021: Bond, Sarah, Paul Dilley, and Ryan Horne (eds). *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects.* ISAW Papers 20. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/20/>
+2021: Bond, Sarah, Paul Dilley, and **Ryan Horne** (eds). *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects.* ISAW Papers 20. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/20/>
 
 ### Book Chapters  
-2022: Horne, Ryan and Ruth Mostern. “Landscapes in Motion: Cartographies of Connectivity and the Place of Physical Geography in the Environmental and Spatial Humanities.” In *Routledge Handbook of the Digital Environmental Humanities*, ed. Luke Bergmann, Arlene Crampsie, Deborah Dixon, Steven Hartman, Robert Legg, Francis Ludlow, and Charlie Travis. Routledge. p. 470–489
+2022: **Horne, Ryan** and Ruth Mostern. “Landscapes in Motion: Cartographies of Connectivity and the Place of Physical Geography in the Environmental and Spatial Humanities.” In *Routledge Handbook of the Digital Environmental Humanities*, ed. Luke Bergmann, Arlene Crampsie, Deborah Dixon, Steven Hartman, Robert Legg, Francis Ludlow, and Charlie Travis. Routledge. p. 470–489
 
 2021: “Digital Approaches to the ‘Big Ancient Mediterranean.’” In *Access and Control in Digital Humanities*, ed. Shane Hawkins. Routledge. p. 78–95
 
-2021: Bond, Sarah, Paul Dilley, and Ryan Horne. “Introducing the Semantic Web and Linked Open Data,” in Bond, Sarah, Paul Dilley, and Ryan Horne (eds). *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects*. ISAW Papers 20. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-1/>
+2021: Bond, Sarah, Paul Dilley, and **Ryan Horne**. “Introducing the Semantic Web and Linked Open Data,” in Bond, Sarah, Paul Dilley, and **Ryan Horne** (eds). *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects*. ISAW Papers 20. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-1/>
 
-2021: “Applying Linked Open Data Standards,” in Bond, Sarah, Paul Dilley, and Ryan Horne (eds). *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects*. ISAW Papers 20. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-2/>
+2021: “Applying Linked Open Data Standards,” in Bond, Sarah, Paul Dilley, and **Ryan Horne** (eds). *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects*. ISAW Papers 20. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-2/>
 
-2021: Mostern, Ruth and Ryan Horne. “Tracking Yu: Developing a Data System for Yellow River History.” In Mostern, Ruth. *Yellow River: A Natural and Unnatural History*. Yale University Press. p. 247–266
+2021: Mostern, Ruth and **Ryan Horne**. “Tracking Yu: Developing a Data System for Yellow River History.” In Mostern, Ruth. *Yellow River: A Natural and Unnatural History*. Yale University Press. p. 247–266
 
 2020: “Mapping Power: Using HGIS and Linked Open Data to Study Ancient Greek Garrison Communities,” in *Historical Geography, GIScience and Textual Analysis: Landscapes of Time and Place*, ed. Charles Travis, Francis Ludlow, and Ferenc Gyuris. Springer. p. 213–227
 
 2014: “Beyond Maps as Images at the Ancient World Mapping Center.” in Elliott, Thomas, Sebastian Heath, and John Muccigrosso (eds). *Current Practice in Linked Open Data for the Ancient World*, ISAW Papers 7. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/horne/>
 
 ### Articles
-2022: Middle, Sarah, Ryan Horne, David A. McMeekin, Chiara Zuanni, and Alex Butterworth. “Geographies of Place in Digital Art History,” *International Journal of Humanities and Arts Computing* (IJHAC) 16, no. 1: 94–109.
+2022: Middle, Sarah, **Ryan Horne**, David A. McMeekin, Chiara Zuanni, and Alex Butterworth. “Geographies of Place in Digital Art History,” *International Journal of Humanities and Arts Computing* (IJHAC) 16, no. 1: 94–109.
 
 2021: “Digital Tools and Ancient Empires: Using Network Analysis and Geographic Information Systems to Study Imperial Networks in Hellenistic Anatolia.” *Journal of World History* 32, no. 2: 321–43.
 
@@ -37,13 +37,13 @@
 ### Digital Publications and Projects
 2021: Maps and infographics in Mostern, Ruth. *Yellow River: A Natural and Unnatural History*. Yale University Press.
 
-2020-2022: Sinai Manuscripts Digital Library. Data and Metadata Coordinator. Site development; Data and metadata development
+2020–2022: Sinai Manuscripts Digital Library. Data and Metadata Coordinator. Site development; Data and metadata development
  <https://sinaimanuscripts.library.ucla.edu/>
 
-2019-2020: World History Gazetteer. Data modeling, database design, data coordination.
+2019–2020: World History Gazetteer. Data modeling, database design, data coordination.
  <https://whgazetteer.org/>
 
-2017-2022: Black Lunch Table Audio Archive, Digital Director. Site and database design and development.
+2017–2022: Black Lunch Table Audio Archive, Digital Director. Site and database design and development.
  <https://blacklunchtable.com/>
 
 2017: Hierokles’ Synekdemos. Ancient World Mapping Center, University of North Carolina, Chapel Hill. Site and database design and development.  
@@ -64,7 +64,7 @@
  A series of geographically accurate, publicly accessible map tiles of the Ancient World, which receive over 2.5 million views a year. Cartographer, designer, developer.
  <http://awmc.unc.edu/wordpress/tiles/>
 
-2012-Present: Pleiades Project.
+2012–present: Pleiades Project.
 A peer-reviewed, community-built gazetteer and graph of ancient places. See credits at <https://pleiades.stoa.org/credits>
  <https://pleiades.stoa.org/>
 

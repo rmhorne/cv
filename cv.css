@@ -15,6 +15,13 @@
   color: #6c757d;
 }
 
+.cv-header .cv-updated {
+  display: block;
+  margin-top: 0.3rem;
+  font-size: 0.85rem;
+  color: #6c757d;
+}
+
 .cv-contact {
   display: flex;
   justify-content: space-between;

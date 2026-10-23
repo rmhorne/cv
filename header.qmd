@@ -5,6 +5,8 @@
 
 [Curriculum Vitae]{.cv-subtitle}
 
+[Updated]{.cv-updated}
+
 ::::: {.cv-contact}
 :::::: {.cv-contact-left}
 UCLA Office of Advanced Research Computing\
@@ -25,11 +27,19 @@ Los Angeles, CA 90095-1557
 ::: {.content-visible when-format="typst"}
 
 ```{=typst}
+#set page(numbering: none, header: locate(loc => {
+  if counter(page).at(loc).first() > 1 {
+    set text(size: 9pt, fill: luma(90))
+    [Ryan Horne #h(1fr) Curriculum Vitae #h(1fr) Page #counter(page).display("1 of 1", both: true)]
+  }
+}))
 #set par(justify: false)
 #align(center)[
   #text(size: 22pt, weight: "bold")[Ryan Horne]
   #v(-0.4em)
   #text(size: 11pt, tracking: 0.1em)[CURRICULUM VITAE]
+  #v(-0.4em)
+  #text(size: 9pt, fill: luma(90))[Updated %%UPDATED%%]
 ]
 #v(0.6em)
 #grid(

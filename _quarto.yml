@@ -6,6 +6,7 @@ project:
 
 filters:
   - cv-entries.lua
+  - cv-updated.lua
 
 format:
   html:
