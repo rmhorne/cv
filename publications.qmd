@@ -57,17 +57,17 @@
 
 2017: *Asia Minor in the Second Century C.E.* With Richard Talbert, Brian Turner, Jeffrey Becker, Ross Twele, and Gabriel Moss. Ancient World Mapping Center, University of North Carolina, Chapel Hill. Cartographer and data coordinator. A 1:750,000 wall map succeeding J. G. C. Anderson's 1903 map of the region. <https://awmc.unc.edu/wall-maps/>
 
-2015: *Terra Biblica and BAM (Big Ancient Mediterranean) Online Resources*. With Sarah Bond and Paul Dilley. University of Iowa. Designer and developer. <http://bam.lib.uiowa.edu/>
+2015: *Strabo Digital Mapping Application*. Ancient World Mapping Center, University of North Carolina, Chapel Hill, accompanying Duane W. Roller, *The Geography of Strabo: An English Translation, with Introduction and Notes* (Cambridge University Press, 2014). Designer and developer. (Offline since 2023; AWMC released a redesigned version in 2026.) Archived: <https://web.archive.org/web/20231128110529/http://www.awmc.unc.edu/awmc/applications/strabo/>
 
-2014: *Strabo Digital Mapping Application*. Ancient World Mapping Center, University of North Carolina, Chapel Hill, accompanying Duane W. Roller, *The Geography of Strabo: An English Translation, with Introduction and Notes* (Cambridge University Press, 2014). Designer and developer. (Offline since 2023; AWMC released a redesigned version in 2026.) Archived: <https://web.archive.org/web/20231128110529/http://www.awmc.unc.edu/awmc/applications/strabo/>
+2015: *Terra Biblica and BAM (Big Ancient Mediterranean) Online Resources*. With Sarah Bond and Paul Dilley. University of Iowa. Designer and developer. <http://bam.lib.uiowa.edu/>
 
 2014: *AWMC Map Tiles*. Ancient World Mapping Center, University of North Carolina, Chapel Hill. Cartographer, designer, and developer. Geographically accurate, publicly accessible map tiles of the ancient world for use in web maps, which received over 2.5 million views a year. (Offline.) Archived: <https://web.archive.org/web/20231127020205/http://awmc.unc.edu/wordpress/tiles/>
 
 2012–present: *Pleiades*. Ancient World Mapping Center and Institute for the Study of the Ancient World, New York University. Contributor and editor. A peer-reviewed, community-built gazetteer and graph of ancient places. <https://pleiades.stoa.org/>
 
-2012: *Antiquity À-la-carte*. Ancient World Mapping Center, University of North Carolina, Chapel Hill. A web-based GIS and interactive digital atlas of the ancient world. (Offline.) Archived: <https://web.archive.org/web/20231127020207/http://awmc.unc.edu/wordpress/alacarte/>
+2012: *Antiquity À-la-carte*. Ancient World Mapping Center, University of North Carolina, Chapel Hill. Creator and programmer. A web-based GIS and interactive digital atlas of the ancient world. (Offline.) Archived: <https://web.archive.org/web/20231127020207/http://awmc.unc.edu/wordpress/alacarte/>
 
-2011: *Peutinger Map*. Digital map accompanying Richard J. A. Talbert, *Rome's World: The Peutinger Map Reconsidered* (Cambridge University Press, 2010), with Tom Elliott, Nora Harris, and Martin Steinmann. (Offline.) Archived: <https://web.archive.org/web/20250409170428/https://peutinger.atlantides.org/map-a/>
+2011: *Peutinger Map*. Digital map accompanying Richard J. A. Talbert, *Rome's World: The Peutinger Map Reconsidered* (Cambridge University Press, 2010), with Tom Elliott, Nora Harris, and Martin Steinmann. Developer. (Offline.) Archived: <https://web.archive.org/web/20250409170428/https://peutinger.atlantides.org/map-a/>
 
 
 ### Book Reviews (Invited)  
