@@ -88,3 +88,42 @@ function Para(el)
     pandoc.Div({ pandoc.Plain(body) }, { class = "cv-body" }),
   }, { class = "cv-entry" })
 end
+
+-- In the PDF, keep a short subsection (its heading plus up to MAX_GROUP
+-- entries) on one page, so a block like a university's teaching list
+-- never starts a page without its heading. Longer lists may still break.
+local MAX_GROUP = 6
+
+local function typst_heading(h)
+  return pandoc.write(pandoc.Pandoc({ h }), "typst", { wrap_text = "none" })
+end
+
+local function keep_groups(doc)
+  if not quarto.doc.is_format("typst") then return nil end
+  local out, blocks, i = pandoc.List(), doc.blocks, 1
+  while i <= #blocks do
+    local b = blocks[i]
+    if b.t == "Header" and b.level == 3 then
+      local j, entries = i + 1, pandoc.List()
+      while j <= #blocks and blocks[j].t == "RawBlock" and blocks[j].format == "typst" do
+        entries:insert(blocks[j].text); j = j + 1
+      end
+      if #entries > 0 and #entries <= MAX_GROUP then
+        out:insert(pandoc.RawBlock("typst",
+          "#block(breakable: false)[\n" .. typst_heading(b) .. "\n" .. table.concat(entries, "\n") .. "\n]"))
+        i = j
+      else
+        out:insert(b); i = i + 1
+      end
+    else
+      out:insert(b); i = i + 1
+    end
+  end
+  doc.blocks = out
+  return doc
+end
+
+return {
+  { Para = Para },
+  { Pandoc = keep_groups },
+}
