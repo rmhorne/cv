@@ -1,13 +1,13 @@
 ## Digital Publications and Projects
-2026–present: *Markings/Huellas: Sensorial/Affect Map*. UCLA cityLAB and Office of Advanced Research Computing, UCLA. Technical lead. An interactive oral-history map of Indigenous immigrant communities in Los Angeles, built on the open-source Terrastories platform. (In development)
+2026–present: *Markings/Huellas: Sensorial/Affect Map*. UCLA cityLAB and Office of Advanced Research Computing, UCLA. Technical consultant. An interactive oral-history map of Indigenous immigrant communities in Los Angeles, built on the open-source Terrastories platform. (In development)
 
 2026–present: *CAL-DROP Statewide Program Dashboard*. Office of Advanced Research Computing, UCLA, for CAL-DROP, a statewide coalition establishing California's first ground EMS blood transfusion programs. Designer and developer. A Tableau dashboard mapping program data from 19 partner EMS agencies, fire departments, hospitals, and blood banks. Prototype delivered 2026.
 
-2025: *Đại Nam Nhất Thống Chí (DNNTC) Viewer*. With George Dutton. Office of Advanced Research Computing, UCLA. Designer and developer. A searchable, side-by-side viewer of the woodblock text and transcription of all seventeen volumes, over 250,000 Classical Chinese characters. (Forthcoming on Columbia University's Digitizing Vietnam platform)
+2025: *Đại Nam Nhất Thống Chí (DNNTC) Viewer*. With George Dutton. Office of Advanced Research Computing, UCLA. Designer and developer. A searchable, side-by-side viewer of the woodblock text and transcription of all seventeen volumes, over 250,000 Classical Chinese characters.
 
 2024–present: *Milken Archive of Jewish Music Wikibase*. Office of Advanced Research Computing, UCLA. Designer and developer. A reusable Python framework for turning the archive's spreadsheet metadata into a linked-data knowledge graph in Wikibase. (In development)
 
-2023–2026: *Tracks of Yu: The Yellow River Database and Digital Atlas*. With Ruth Mostern and Nathan Michalewicz. Data coordinator and developer. The open data behind Mostern's *The Yellow River: A Natural and Unnatural History* (Yale University Press, 2021), with a web atlas. <https://tracksofyu.github.io/>
+2023–2026: *Tracks of Yu: The Yellow River Database and Digital Atlas*. With Ruth Mostern, Nathan Michalewicz, and Sharon Zhang. Data coordinator and developer. The open data behind Mostern's *The Yellow River: A Natural and Unnatural History* (Yale University Press, 2021), with a web atlas. <https://tracksofyu.github.io/>
 
 2023: *SAKE: Structural Analysis Knowledge Engine*. With engineering researchers and developers at the Office of Advanced Research Computing, UCLA. Contributor to application architecture and web interface. A Python-based platform for teaching structural engineering through interactive analysis and visualization.
 
