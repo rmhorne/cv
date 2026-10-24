@@ -83,6 +83,8 @@
 
 2022: “Shifting Cartographies: Geospatial Networks,” UCLA Global Humanisms Digital Humanities Forum, November 7
 
+2021: “Redrawing Lines: Cartography, Networks, and Linked Open Data,” UCLA Library Research Forum <https://escholarship.org/uc/item/30r499hd>
+
 2021: “An Evolving Sinai Manuscripts Data Program,” with Dawn Childress, UCLA Library Research Forum, March 23
 
 2014: “AWMC Research,” poster, ITS Research Computing Symposium, University of North Carolina, Chapel Hill, May 20
