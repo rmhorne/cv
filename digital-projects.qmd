@@ -7,7 +7,11 @@
 
 2024–present: *Milken Archive of Jewish Music Wikibase*. Office of Advanced Research Computing, UCLA. Designer and developer. A reusable Python framework for turning the archive's spreadsheet metadata into a linked-data knowledge graph in Wikibase. (In development)
 
+2024: *PATHS (Potential AI Feature Unearther System)*. OARC AI Accelerator program, Office of Advanced Research Computing, UCLA. Team lead. A Jupyter-based workflow on the Hoffman2 cluster that combines Esri deep learning models and the Claude large language model to detect buildings in imagery, convert them to GeoJSON, and link them to gazetteers as Linked Open Data.
+
 2023–2026: *Tracks of Yu: The Yellow River Database and Digital Atlas*. With Ruth Mostern, Nathan Michalewicz, and Sharon Zhang. Data coordinator and developer. The open data behind Mostern's *The Yellow River: A Natural and Unnatural History* (Yale University Press, 2021), with a web atlas. <https://tracksofyu.github.io/>
+
+2023–2024: *Visual and Sonic Landscapes of Muslims in Los Angeles*. Fowler Museum and Office of Advanced Research Computing, UCLA. Web developer and data designer. A public digital archive created by and for Muslim Angelenos, centered on community voices, ritual, music, murals, and other artworks.
 
 2023: *SAKE: Structural Analysis Knowledge Engine*. With engineering researchers and developers at the Office of Advanced Research Computing, UCLA. Contributor to application architecture and web interface. A Python-based platform for teaching structural engineering through interactive analysis and visualization.
 
