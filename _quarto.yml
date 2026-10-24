@@ -6,6 +6,7 @@ project:
     - cv-pomona.qmd
 
 filters:
+  - cv-variants.lua
   - cv-entries.lua
   - cv-updated.lua
 

@@ -32,6 +32,11 @@ lines, give it its own `output-file`, and add it to the `render` list in
 `_quarto.yml`. Each version still draws on the same section files, so there is only
 one copy of the content.
 
+Some text appears only in versions that ask for it. The dissertation title in
+`education.qmd` is marked `[...]{.dissertation}` and is hidden unless a version's front
+matter sets `show-dissertation: true` (useful for ancient history jobs). The switch is
+handled by `cv-variants.lua`.
+
 ## Building
 
 ```bash
