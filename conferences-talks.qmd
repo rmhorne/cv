@@ -126,6 +126,8 @@
 
 2023: “Introduction to Data Storytelling,” UCLA Office of Advanced Research Computing, June 28
 
+2023: “Version Control with Git,” UCLA Software Carpentry Workshop, March 9
+
 2023: “Introduction to QGIS and Digital Gazetteers,” UCLA Office of Advanced Research Computing, January 20
 
 2022: “Using the DMP Tool,” with Renata Curty and Greg Janée, UCSB Office of Research, May 20
@@ -142,8 +144,6 @@
 
 2020: “Introduction to Mapping and Digital Gazetteers for the Humanities,” UCLA Library Research Workshop, November 17
 
-2018: “Introduction to Network Analysis and Visualization,” University of Pittsburgh Library, October 12
+2017–2019: “Introduction to Network Analysis and Visualization,” University of Pittsburgh Library System, September 15, 2017; October 12, 2018; and March 29, 2019
 
-2018: “Introduction to QGIS,” University of Pittsburgh Library, September 28
-
-2017: “Introduction to Network Analysis and Visualization,” University of Pittsburgh Library, October 12
+2018, 2019: “Introduction to QGIS,” University of Pittsburgh Library System, September 28, 2018 and February 8, 2019
