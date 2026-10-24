@@ -51,8 +51,26 @@ local function split_entry(inlines)
   return date, body
 end
 
+-- Keep dates like "January 3–6" on one line: a word joiner after an en dash
+-- between digits, and each month with its day in an unbreakable box (Typst
+-- 0.10 still breaks at a non-breaking space).
+local WORD_JOINER = "\u{2060}"
+local MONTHS = {
+  "January", "February", "March", "April", "May", "June", "July",
+  "August", "September", "October", "November", "December",
+}
+
 local function to_typst(inlines)
-  return pandoc.write(pandoc.Pandoc({ pandoc.Plain(inlines) }), "typst")
+  local out = pandoc.write(pandoc.Pandoc({ pandoc.Plain(inlines) }), "typst",
+    { wrap_text = "none" })
+  -- "\1" stands in for the space inside a box, so a boxed range isn't
+  -- boxed again by the single-day pass; it's restored at the end.
+  for _, month in ipairs(MONTHS) do
+    out = out:gsub(month .. " (%d+)–(%d+)", "#box[" .. month .. "\1%1–%2]")
+    out = out:gsub(month .. " (%d+)", "#box[" .. month .. "\1%1]")
+  end
+  out = out:gsub("(%d)–(%d)", "%1–" .. WORD_JOINER .. "%2")
+  return (out:gsub("\1", " "))
 end
 
 function Para(el)

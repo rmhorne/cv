@@ -1,6 +1,6 @@
 ## Technical Competencies
 
-**Geospatial:** ArcGIS Pro, ArcGIS Online (organization administration), ArcGIS Experience Builder, ArcGIS API for Python, QGIS, PostGIS, pgRouting, GDAL, Leaflet, OpenLayers
+**Geospatial:** ArcGIS Pro, ArcGIS Online (organization administration), ArcGIS StoryMaps, ArcGIS Experience Builder, ArcGIS API for Python, QGIS, PostGIS, pgRouting, GDAL, Leaflet, OpenLayers
 
 **Programming and research software:** Python (Pandas, NetworkX, Flask, Streamlit, Jupyter), R, JavaScript (D3.js), SQL (PostgreSQL, MySQL, SQLite), Git/GitHub, REST APIs, Linux, high-performance computing (Hoffman2), Quarto
 

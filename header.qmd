@@ -17,7 +17,7 @@ Los Angeles, CA 90095-1557
 
 :::::: {.cv-contact-right}
 <ryan.matthew.horne@gmail.com>\
-<https://rmhorne.org>
+<https://rmhorne.github.io>
 ::::::
 :::::
 ::::
@@ -58,7 +58,7 @@ Los Angeles, CA 90095-1557
   ],
   align(right)[
     #link("mailto:ryan.matthew.horne@gmail.com")[ryan.matthew.horne\@gmail.com] \
-    #link("https://rmhorne.org")[rmhorne.org]
+    #link("https://rmhorne.github.io")[rmhorne.github.io]
   ],
 )
 #v(0.8em)

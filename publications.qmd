@@ -1,42 +1,40 @@
-## Publications  
+## Publications
 
-### Monographs  
-2020: *Aeolian Alexanders: Economic, Material, and Social Networks in Antiquity*.
- Electronic publication supported by a NEH-Mellon Fellowship for Digital Publication.
- <https://github.com/Aeolian-Alexanders>
+### Monographs
+2020: *Aeolian Alexanders: Economic, Material, and Social Networks in Antiquity*. Digital monograph, supported by an NEH-Mellon Fellowship for Digital Publication. <https://github.com/Aeolian-Alexanders>
 
-### Editor  
-2021: Bond, Sarah, Paul Dilley, and **Ryan Horne** (eds). *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects.* ISAW Papers 20. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/20/>
+### Edited Volume
+2021: Bond, Sarah, Paul Dilley, and **Ryan Horne**, eds. *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects*. ISAW Papers 20. Institute for the Study of the Ancient World, New York University. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/20/>
 
-### Book Chapters  
-2022: **Horne, Ryan** and Ruth Mostern. “Landscapes in Motion: Cartographies of Connectivity and the Place of Physical Geography in the Environmental and Spatial Humanities.” In *Routledge Handbook of the Digital Environmental Humanities*, ed. Luke Bergmann, Arlene Crampsie, Deborah Dixon, Steven Hartman, Robert Legg, Francis Ludlow, and Charlie Travis. Routledge. p. 470–489
+### Book Chapters
+2022: **Horne, Ryan**, and Ruth Mostern. “Landscapes in Motion: Cartographies of Connectivity and the Place of Physical Geography in the Environmental and Spatial Humanities.” In *Routledge Handbook of the Digital Environmental Humanities*, edited by Luke Bergmann, Arlene Crampsie, Deborah Dixon, Steven Hartman, Robert Legg, Francis Ludlow, and Charlie Travis, 470–89. Routledge.
 
-2021: “Digital Approaches to the ‘Big Ancient Mediterranean.’” In *Access and Control in Digital Humanities*, ed. Shane Hawkins. Routledge. p. 78–95
+2021: “Digital Approaches to the ‘Big Ancient Mediterranean.’” In *Access and Control in Digital Humanities*, edited by Shane Hawkins, 78–95. Routledge.
 
-2021: Bond, Sarah, Paul Dilley, and **Ryan Horne**. “Introducing the Semantic Web and Linked Open Data,” in Bond, Sarah, Paul Dilley, and **Ryan Horne** (eds). *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects*. ISAW Papers 20. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-1/>
+2021: Bond, Sarah, Paul Dilley, and **Ryan Horne**. “Introducing the Semantic Web and Linked Open Data.” In *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects*, edited by Sarah Bond, Paul Dilley, and **Ryan Horne**. ISAW Papers 20. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-1/>
 
-2021: “Applying Linked Open Data Standards,” in Bond, Sarah, Paul Dilley, and **Ryan Horne** (eds). *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects*. ISAW Papers 20. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-2/>
+2021: “Applying Linked Open Data Standards.” In *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects*, edited by Sarah Bond, Paul Dilley, and **Ryan Horne**. ISAW Papers 20. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-2/>
 
-2021: Mostern, Ruth and **Ryan Horne**. “Tracking Yu: Developing a Data System for Yellow River History.” In Mostern, Ruth. *Yellow River: A Natural and Unnatural History*. Yale University Press. p. 247–266
+2021: Mostern, Ruth, and **Ryan Horne**. “Tracking Yu: Developing a Data System for Yellow River History.” In Ruth Mostern, *The Yellow River: A Natural and Unnatural History*, 247–66. Yale University Press.
 
-2020: “Mapping Power: Using HGIS and Linked Open Data to Study Ancient Greek Garrison Communities,” in *Historical Geography, GIScience and Textual Analysis: Landscapes of Time and Place*, ed. Charles Travis, Francis Ludlow, and Ferenc Gyuris. Springer. p. 213–227
+2020: “Mapping Power: Using HGIS and Linked Open Data to Study Ancient Greek Garrison Communities.” In *Historical Geography, GIScience and Textual Analysis: Landscapes of Time and Place*, edited by Charles Travis, Francis Ludlow, and Ferenc Gyuris, 213–27. Springer.
 
-2014: “Beyond Maps as Images at the Ancient World Mapping Center.” in Elliott, Thomas, Sebastian Heath, and John Muccigrosso (eds). *Current Practice in Linked Open Data for the Ancient World*, ISAW Papers 7. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/horne/>
+2014: “Beyond Maps as Images at the Ancient World Mapping Center.” In *Current Practice in Linked Open Data for the Ancient World*, edited by Thomas Elliott, Sebastian Heath, and John Muccigrosso. ISAW Papers 7. <http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/horne/>
 
 ### Articles
 Under review: “Digital Entanglements: Grand Strategy Games, Historical Networks, and Digital Humanities.” *Journal of Historical Network Research*, special issue on network analysis and game studies.
 
-2022: Middle, Sarah, **Ryan Horne**, David A. McMeekin, Chiara Zuanni, and Alex Butterworth. “Geographies of Place in Digital Art History,” *International Journal of Humanities and Arts Computing* (IJHAC) 16, no. 1: 94–109.
+2022: Middle, Sarah, **Ryan Horne**, David A. McMeekin, Chiara Zuanni, and Alex Butterworth. “Geographies of Place in Digital Art History.” *International Journal of Humanities and Arts Computing* 16, no. 1: 94–109.
 
 2021: “Digital Tools and Ancient Empires: Using Network Analysis and Geographic Information Systems to Study Imperial Networks in Hellenistic Anatolia.” *Journal of World History* 32, no. 2: 321–43.
 
-2020: “Beyond Lists: Digital Gazetteers and Digital History,” *The Historian*: 1–14
+2020: “Beyond Lists: Digital Gazetteers and Digital History.” *The Historian* 82, no. 1: 37–50.
 
-2020: “Connecting the Dots: Rethinking Cartographies of Connectivity,” *PLATFORM*. <https://www.platformspace.net/home/connecting-the-dots-rethinking-cartographies-of-connectivity>
+2020: “Connecting the Dots: Rethinking Cartographies of Connectivity.” *PLATFORM*. <https://www.platformspace.net/home/connecting-the-dots-rethinking-cartographies-of-connectivity>
 
 2019: “Addressing Divergent Digital Literacies and Visualizing Data Uncertainty in Social Networks and the Ancient Greek Garrisons Project.” *Classics@* 17. <https://classics-at.chs.harvard.edu/classics17-horne/>
 
-### Book Reviews (Invited)  
-2013: Review of John Lendon, *Song of Wrath: The Peloponnesian War Begins*. *The History Teacher* 46, no. 2 (February 2013): 303–304
+### Book Reviews (Invited)
+2013: Review of John Lendon, *Song of Wrath: The Peloponnesian War Begins*. *The History Teacher* 46, no. 2 (February 2013): 303–4.
 
-2009: Review of John Hale, *Lords of the Sea: The Epic Story of the Athenian Navy and the Birth of Democracy*. *The History Teacher* 43, no. 1 (November 2009): 146–147
+2009: Review of John Hale, *Lords of the Sea: The Epic Story of the Athenian Navy and the Birth of Democracy*. *The History Teacher* 43, no. 1 (November 2009): 146–47.
