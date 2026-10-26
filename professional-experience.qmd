@@ -1,7 +1,7 @@
 ## Professional Experience  
 2022–present: Digital Research Specialist, GIS and Visualization Group, Office of Advanced Research Computing, University of California, Los Angeles\
 Design and build research applications, databases, and maps with faculty and students across the humanities, social sciences, and sciences\
-Teach workshops in GIS, network analysis, and digital research methods; instructor in the Digital Humanities Program\
+Teach workshops in GIS, network analysis, and digital research methods; taught in the Digital Humanities Program, 2023–2024\
 Since 2024, administer and support UCLA's campus-wide ArcGIS Online organization, serving over 7,000 users
 
 2021–2022: Digital Humanities Research Facilitator, Research Data Services, University of California, Santa Barbara Library
