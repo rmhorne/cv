@@ -6,7 +6,8 @@ Ryan Horne's CV, built with [Quarto](https://quarto.org) as a web page and a PDF
 
 - `index.qmd` is the main CV: it pulls in each section file in order.
 - `cv-pomona.qmd` is a tailored version that includes the same section files in a
-  different order (teaching and digital projects first).
+  different order (teaching first, then publications and projects) and a condensed
+  teaching-assistant list.
 - One `.qmd` file per section (`education.qmd`, `publications.qmd`,
   `digital-projects.qmd`, …). Edit these; every version picks up the change.
 - `header.qmd` holds the name and contact block (separate HTML and PDF versions).
@@ -34,8 +35,11 @@ one copy of the content.
 
 Some text appears only in versions that ask for it. The dissertation title in
 `education.qmd` is marked `[...]{.dissertation}` and is hidden unless a version's front
-matter sets `show-dissertation: true` (useful for ancient history jobs). The switch is
-handled by `cv-variants.lua`.
+matter sets `show-dissertation: true` (useful for ancient history jobs). Setting
+`condense-ta: true` replaces the full list of teaching-assistant courses in
+`teaching.qmd` (the `::: {.ta-full}` block) with a two-line summary (the
+`::: {.ta-short}` block); the Pomona version does this. Both switches are handled by
+`cv-variants.lua`.
 
 ## Building
 

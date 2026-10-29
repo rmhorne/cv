@@ -98,6 +98,34 @@ local function typst_heading(h)
   return pandoc.write(pandoc.Pandoc({ h }), "typst", { wrap_text = "none" })
 end
 
+-- Likewise keep a section heading with what follows it (a subheading and/or
+-- its first entry or group), so no section title sits alone at a page foot.
+local function keep_section_starts(blocks)
+  local out, i = pandoc.List(), 1
+  while i <= #blocks do
+    local b = blocks[i]
+    if b.t == "Header" and b.level == 2 then
+      local parts, j = pandoc.List({ typst_heading(b) }), i + 1
+      if j <= #blocks and blocks[j].t == "Header" and blocks[j].level == 3 then
+        parts:insert(typst_heading(blocks[j])); j = j + 1
+      end
+      if j <= #blocks and blocks[j].t == "RawBlock" and blocks[j].format == "typst" then
+        parts:insert(blocks[j].text); j = j + 1
+      end
+      if #parts > 1 then
+        out:insert(pandoc.RawBlock("typst",
+          "#block(breakable: false)[\n" .. table.concat(parts, "\n") .. "\n]"))
+        i = j
+      else
+        out:insert(b); i = i + 1
+      end
+    else
+      out:insert(b); i = i + 1
+    end
+  end
+  return out
+end
+
 local function keep_groups(doc)
   if not quarto.doc.is_format("typst") then return nil end
   local out, blocks, i = pandoc.List(), doc.blocks, 1
@@ -119,7 +147,7 @@ local function keep_groups(doc)
       out:insert(b); i = i + 1
     end
   end
-  doc.blocks = out
+  doc.blocks = keep_section_starts(out)
   return doc
 end
 
