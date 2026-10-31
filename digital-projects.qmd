@@ -1,5 +1,5 @@
 ## Digital Publications and Projects
-2026–present: *Markings/Huellas: Sensorial/Affect Map*. UCLA cityLAB and Office of Advanced Research Computing, UCLA. Technical consultant. An interactive oral-history map of Indigenous immigrant communities in Los Angeles, built on the open-source Terrastories platform. (In development)
+2026–present: *Markings/Huellas: Sensorial/Affect Map*. UCLA cityLAB and Office of Advanced Research Computing, UCLA. Technical consultant. An interactive oral-history map of Indigenous migrant communities in Los Angeles, built on the open-source Terrastories platform. (In development)
 
 2026–present: *CAL-DROP Statewide Program Dashboard*. Office of Advanced Research Computing, UCLA, for CAL-DROP, a statewide coalition establishing California's first ground EMS blood transfusion programs. Designer and developer. A Tableau dashboard mapping program data from 19 partner EMS agencies, fire departments, hospitals, and blood banks. Prototype delivered 2026.
 
